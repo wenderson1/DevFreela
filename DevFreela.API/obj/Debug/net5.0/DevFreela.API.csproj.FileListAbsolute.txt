@@ -56,3 +56,5 @@ D:\Workspace\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.dll
 D:\Workspace\DevFreela\DevFreela.API\obj\Debug\net5.0\ref\DevFreela.API.dll
 D:\Workspace\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.pdb
 D:\Workspace\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.genruntimeconfig.cache
+D:\Workspace\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.dll
+D:\Workspace\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.pdb
