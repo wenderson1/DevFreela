@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace DevFreela.Core.Entities
 {
-   public class Projects:BaseEntity
+   public class Project:BaseEntity
     {
-        public Projects(string title, string description, int idClient, int idFreelancer, decimal totalCost)
+        public Project(string title, string description, int idClient, int idFreelancer, decimal totalCost)
         {
             Title = title;
             Description = description;
