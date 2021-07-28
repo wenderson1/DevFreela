@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+      "projectUniqueName": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
       "projectName": "DevFreela.Core",
-      "projectPath": "D:\\Workspace\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+      "projectPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
       "packagesPath": "C:\\Users\\wende\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\DevFreela\\DevFreela.Core\\obj\\",
+      "outputPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\SDK\\NuGetPackages",

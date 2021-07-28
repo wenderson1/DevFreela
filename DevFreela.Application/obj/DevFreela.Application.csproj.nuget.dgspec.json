@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {}
+    "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+    "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
-        "projectName": "DevFreela.Core",
-        "projectPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectUniqueName": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+        "projectName": "DevFreela.Application",
+        "projectPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
         "packagesPath": "C:\\Users\\wende\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\obj\\",
+        "outputPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudio\\SDK\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8E07Nng4lCwiyot80TadmY1itQa/lwiPJ6cro6Lwj09ZPEkXIibA1dXsfDfntEGcKPax9SleIT8+J+Fc+4WAg==",
+  "dgSpecHash": "EzgsGORSuZjXp61/nBaZa59j3X2oq6N1aTdpFTOdGR+nravqsz3Ci60kGyFpQEY2c9sgmQ986wKf2h19ZboZsw==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+  "projectFilePath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -216,11 +216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+      "projectUniqueName": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
       "projectName": "DevFreela.API",
-      "projectPath": "D:\\Workspace\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+      "projectPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
       "packagesPath": "C:\\Users\\wende\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\DevFreela\\DevFreela.API\\obj\\",
+      "outputPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\SDK\\NuGetPackages",
@@ -243,8 +243,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Workspace\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-              "projectPath": "D:\\Workspace\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+            "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+              "projectPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
             }
           }
         }

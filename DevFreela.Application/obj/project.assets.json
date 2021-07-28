@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "DevFreela.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/DevFreela.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DevFreela.Core.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "DevFreela.Core/1.0.0": {
-      "type": "project",
-      "path": "../DevFreela.Core/DevFreela.Core.csproj",
-      "msbuildProject": "../DevFreela.Core/DevFreela.Core.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "DevFreela.Core >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\wende\\.nuget\\packages\\": {},
@@ -34,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
-      "projectName": "DevFreela.Infrastructure",
-      "projectPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+      "projectName": "DevFreela.Application",
+      "projectPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
       "packagesPath": "C:\\Users\\wende\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Infrastructure\\obj\\",
+      "outputPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\SDK\\NuGetPackages",
@@ -60,11 +41,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-              "projectPath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
