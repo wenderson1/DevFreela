@@ -3,3 +3,15 @@ D:\Workspace\.NET\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.App
 D:\Workspace\.NET\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfoInputs.cache
 D:\Workspace\.NET\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfo.cs
 D:\Workspace\.NET\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.deps.json
+D:\Workspace\.NET\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Application\bin\Debug\net5.0\ref\DevFreela.Application.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.pdb
+D:\Workspace\.NET\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\Workspace\.NET\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\Workspace\.NET\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CopyComplete
+D:\Workspace\.NET\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Application\obj\Debug\net5.0\ref\DevFreela.Application.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.pdb

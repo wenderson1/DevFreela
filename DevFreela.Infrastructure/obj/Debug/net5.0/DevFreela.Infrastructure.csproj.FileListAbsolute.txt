@@ -3,3 +3,16 @@ D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.
 D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
 D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.AssemblyInfo.cs
 D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.deps.json
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.runtimeconfig.json
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.runtimeconfig.dev.json
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\ref\DevFreela.Infrastructure.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Core.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.csproj.CopyComplete
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\ref\DevFreela.Infrastructure.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\Workspace\.NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.genruntimeconfig.cache
