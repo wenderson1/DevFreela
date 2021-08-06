@@ -3,3 +3,15 @@ D:\Workspace\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.GeneratedM
 D:\Workspace\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfoInputs.cache
 D:\Workspace\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfo.cs
 D:\Workspace\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.deps.json
+D:\Workspace\.NET\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Core\bin\Debug\net5.0\ref\DevFreela.Core.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.AssemblyReference.cache
+D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfoInputs.cache
+D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfo.cs
+D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\ref\DevFreela.Core.dll
+D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.pdb

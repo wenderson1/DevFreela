@@ -58,3 +58,12 @@ D:\Workspace\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.pdb
 D:\Workspace\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.genruntimeconfig.cache
 D:\Workspace\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.dll
 D:\Workspace\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.csproj.AssemblyReference.cache
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.AssemblyInfoInputs.cache
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.AssemblyInfo.cs
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.dll
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\ref\DevFreela.API.dll
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.pdb
