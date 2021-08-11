@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DevFreela.Infrastructure.Persistence.Configurations
 {
-    public class SkillConfiguration : IEntityTypeConfiguration<Skill>
+    public class SkillConfigurations : IEntityTypeConfiguration<Skill>
     {
         public void Configure(EntityTypeBuilder<Skill> builder)
         {

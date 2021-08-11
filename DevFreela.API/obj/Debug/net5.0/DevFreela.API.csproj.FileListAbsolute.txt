@@ -122,3 +122,6 @@ D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\scopedcss\bundle\DevF
 D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.RazorTargetAssemblyInfo.cache
 D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.csproj.CopyComplete
 D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.genruntimeconfig.cache
+D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\Humanizer.dll
+D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cs
