@@ -107,6 +107,7 @@ namespace DevFreela.Application.Services.Implementations
                 sqlConnection.Open();
                 var script = "UPDATE Projects SET Status = @status, StartedAt = @staredat WHERE Id = @id";
                 sqlConnection.Execute(script, new { status = project.Status, startedat = project.StartedAt, id });
+                sqlConnection.Close();
             }
         }
 
