@@ -20,23 +20,23 @@ namespace DevFreela.Application.Services.Implementations
             _dbContext = dbContext;
         }
 
-        public int Create(NewUserInputModel inputModel)
+        /**public int Create(NewUserInputModel inputModel)
         {
             var user = new User(inputModel.FullName, inputModel.Email, inputModel.BirthDate);
             _dbContext.Users.Add(user);
             _dbContext.SaveChanges();
 
             return user.Id;
-        }
+        }*/
 
-        public void Delete(int id)
+       /** public void Delete(int id)
         {
             var user = _dbContext.Users.SingleOrDefault(p => p.Id == id);
             _dbContext.Users.Remove(user);
             _dbContext.SaveChanges();
 
         }
-
+        */
         public List<UserDetailsViewModel> GetAll(string query)
         {
             var users = _dbContext.Users;
@@ -66,11 +66,11 @@ namespace DevFreela.Application.Services.Implementations
             return userDetailsViewModel;
         }
 
-        public void Update(UpdateUserInputModel inputModel)
+        /*public void Update(UpdateUserInputModel inputModel)
         {
             var user = _dbContext.Users.SingleOrDefault(p => p.Id == inputModel.Id);
             user.Update(inputModel.FullName, inputModel.Email, inputModel.Skills);
             _dbContext.SaveChanges();
-        }
+        }*/
     }
 }
