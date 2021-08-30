@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace DevFreela.Application.Services.Implementations
 {
-    public class SkillService : ISkillService
+    public class SkillService
     {
         private readonly DevFreelaDbContext _dbContext;
         private readonly string _connectionString;

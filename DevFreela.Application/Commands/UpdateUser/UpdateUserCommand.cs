@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using DevFreela.Core.Entities;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
