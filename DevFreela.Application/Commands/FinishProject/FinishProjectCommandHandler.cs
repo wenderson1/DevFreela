@@ -1,5 +1,6 @@
 ﻿using DevFreela.Infrastructure.Persistence;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,10 +20,10 @@ namespace DevFreela.Application.Commands.FinishProject
 
         public async Task<Unit> Handle(FinishProjectCommand request, CancellationToken cancellationToken)
         {
-            var project = _dbContext.Projects.SingleOrDefault(p => p.Id == request.Id);
+            var project = await _dbContext.Projects.SingleOrDefaultAsync(p => p.Id == request.Id);
 
             project.Finish();
-            await _dbContext.SaveChangesAsync();
+             _dbContext.SaveChanges();
 
             return Unit.Value;
         }

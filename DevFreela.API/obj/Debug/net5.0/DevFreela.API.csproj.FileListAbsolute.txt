@@ -125,3 +125,6 @@ D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.genrunt
 D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\Humanizer.dll
 D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\Dapper.dll
+D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\MediatR.dll
+D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
