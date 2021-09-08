@@ -36,5 +36,10 @@ namespace DevFreela.Core.Entities
             Email = email;
             Skills = skills;
         }
+
+        public void Deactive()
+        {
+            Active = false;
+        }
     }
 }

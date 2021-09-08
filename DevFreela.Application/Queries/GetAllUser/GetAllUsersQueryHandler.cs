@@ -22,10 +22,10 @@ namespace DevFreela.Application.Queries.GetAllUser
         }
         public async Task<List<UserDetailsViewModel>> Handle(GetAllUsersQuery request, CancellationToken cancellationToken)
         {
-            var users = await _userRepository.GetAll();
+            var users = await _userRepository.GetAllAsync();
 
             var usersViewModel = users
-                .Select(u => new UserDetailsViewModel(u.FullName, u.Email, u.Skills, u.OwnedProjects, u.FreelanceProjects, u.Comments))
+                .Select(u => new UserDetailsViewModel(u.FullName, u.Email))
                 .ToList();
                 
 

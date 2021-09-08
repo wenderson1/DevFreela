@@ -23,7 +23,7 @@ namespace DevFreela.Application.Queries.GetProjects
 
         public async Task<ProjectDetailsViewModel> Handle(GetProjectByIdQuery request, CancellationToken cancellationToken)
         {
-            var project = await _projectRepository.GetById(request.Id);
+            var project = await _projectRepository.GetByIdAsync(request.Id);
                 
             if (project == null) return null;
 

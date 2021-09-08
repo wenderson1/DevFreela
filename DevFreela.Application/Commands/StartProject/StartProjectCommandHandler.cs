@@ -17,11 +17,11 @@ namespace DevFreela.Application.Commands.Start
     public class StartProjectCommandHandler : IRequestHandler<StartProjectCommand, Unit>
     {
         private readonly IProjectRepository _projectRepository;
-        private readonly string _connectionString;
+        
         public StartProjectCommandHandler(IProjectRepository projectRepository, IConfiguration configuration)
         {
             _projectRepository = projectRepository;
-            _connectionString = configuration.GetConnectionString("DevFreelaCs");
+            
         }
 
         public async Task<Unit> Handle(StartProjectCommand request, CancellationToken cancellationToken)

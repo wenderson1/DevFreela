@@ -1,5 +1,4 @@
-﻿using DevFreela.Core.Entities;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace DevFreela.Application.ViewModels
 {
-    public class UserDetailsViewModel
+    public class UserViewModel
     {
-        public UserDetailsViewModel(string fullName, string email)
+
+        public UserViewModel(string fullName, string email)
         {
             FullName = fullName;
             Email = email;

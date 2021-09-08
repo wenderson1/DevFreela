@@ -22,20 +22,11 @@ namespace DevFreela.Application.Queries.GetUser
         }
         public async Task<UserDetailsViewModel> Handle(GetByIdUserQuery request, CancellationToken cancellationToken)
         {
-            var user = await _userRepository.GetById(request.Id);
+            var user = await _userRepository.GetByIdAsync(request.Id);
 
             if (user == null) return null;
 
-            var userDetailsViewModel = new UserDetailsViewModel(
-                user.FullName,
-                user.Email,
-                user.Skills,
-                user.FreelanceProjects,
-                user.OwnedProjects,
-                user.Comments
-                );
-
-            return userDetailsViewModel;
+            return new UserDetailsViewModel(user.FullName, user.Email);
         }
     }
 }

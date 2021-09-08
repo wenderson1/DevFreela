@@ -25,8 +25,12 @@ namespace DevFreela.Infrastructure.Persistence.Repositories
 
         public async Task<User> GetByIdAsync(int id)
         {
-
             return await _dbContext.Users.SingleOrDefaultAsync(p => p.Id == id);
+        }
+
+        public async Task SaveChangesAsync()
+        {
+            await _dbContext.SaveChangesAsync();
         }
     }
 }

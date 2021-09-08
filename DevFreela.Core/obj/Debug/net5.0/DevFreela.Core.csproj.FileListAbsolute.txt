@@ -14,4 +14,3 @@ D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.cspro
 D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.dll
 D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\ref\DevFreela.Core.dll
 D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.pdb
-D:\Workspace\.NET\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.AssemblyReference.cache
