@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ONy3FM8/6OvuPREhDaFvBYkt/j/fTeBPmdSppRiG11fFlX3jnzFVE2BRzNgEoBMYHyFl/fGrSO3KcnhaVkhsbw==",
+  "dgSpecHash": "jizYqKxOT3FbttVa22Ff2/+MBU/D9LNoSLgTcl9i9JVLHNlY/u03U7gJHL+/qfuolZ2rRfMbyxccfY1glr+Kmw==",
   "success": true,
   "projectFilePath": "D:\\Workspace\\.NET\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wende\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\wende\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\wende\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\wende\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\wende\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\wende\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\wende\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
