@@ -1,3 +1,4 @@
+using DevFreela.API.Filter;
 using DevFreela.Application.Commands.CreateProject;
 using DevFreela.Application.Validators;
 using DevFreela.Core.Repositories;
@@ -36,7 +37,7 @@ namespace DevFreela.API
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<ISkillRepository, SkillRepository>();
 
-            services.AddControllers()
+            services.AddControllers(options=>options.Filters.Add(typeof(ValidationFilter)))
                 .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<CreateUserCommandValidator>()) ;
 
             services.AddMediatR(typeof(CreateProjectCommand));

@@ -128,3 +128,6 @@ D:\Workspace\.NET\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.MvcAppl
 D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\Dapper.dll
 D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\MediatR.dll
 D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\FluentValidation.dll
+D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Workspace\.NET\DevFreela\DevFreela.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
