@@ -25,7 +25,6 @@ namespace DevFreela.Application.Commands.CreateComment
 
             await _projectRepository.AddCommentAsync(comment);
             
-
             return Unit.Value;
         }
     }
