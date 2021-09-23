@@ -15,11 +15,11 @@ namespace DevFreela.Core.Entities
             BirthDate = birthDate;
             CreatedAt = DateTime.Now;
             Active = true;
+            Password = password;
+            Role = role;
             Skills = new List<UserSkill>();
             OwnedProjects = new List<Project>();
             FreelanceProjects = new List<Project>();
-            Password = password;
-            Role = role;
         }
 
         public string FullName { get; private set; }
