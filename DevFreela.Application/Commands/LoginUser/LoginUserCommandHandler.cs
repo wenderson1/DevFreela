@@ -36,6 +36,7 @@ namespace DevFreela.Application.Commands.LoginUser
 
             //se existir gero  o token usando os dados do usuário
             var token = _authService.GenerateJwtToken(user.Email, user.Role);
+
             return new LoginUserViewModel(user.Email,token);
         }
     }
