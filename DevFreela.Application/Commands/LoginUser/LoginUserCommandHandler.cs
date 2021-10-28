@@ -29,7 +29,7 @@ namespace DevFreela.Application.Commands.LoginUser
             var user = await _userRepository.GetUserByEmailAndPasswordAsync(request.Email, passwordHash);
 
             //se nao existir,  erro no login
-            if(user is null)
+            if(user == null)
             {
                 return null;
             }
