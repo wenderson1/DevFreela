@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace DevFreela.Application.Commands.CreateProject
 {
-    class CreateProjectCommandHandler : IRequestHandler<CreateProjectCommand, int>
+    public class CreateProjectCommandHandler : IRequestHandler<CreateProjectCommand, int>
     {
         private readonly IProjectRepository _projectRepository;
         public CreateProjectCommandHandler(IProjectRepository projectRepository)
