@@ -20,7 +20,7 @@ Definir, iniciar e finalizar projeto
 
 * .NET Core
 * Entity Framework Core (SQL Server)
-* Arquitetura Limpa com ## Camadas de Responsabilidades com camadas Core, Application, Infrasctructure e API.
+* Arquitetura Limpa com 
 * Padrão de Projeto Repository para acesso da dados
 * Padrão CQRS para para separar as responsabilidades de leitura e escrita de dados
 * FluentValidations para validações dos commands
